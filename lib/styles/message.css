@@ -50,7 +50,7 @@
 }
 
 .sc-message--content.received .sc-message--text {
-  color: #263238;
+  color: #fff;
   background-color: #1e2025;
   margin-right: 40px;
 }
